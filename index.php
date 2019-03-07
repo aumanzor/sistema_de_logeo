@@ -42,10 +42,10 @@
         <div class="d-flex justify-content-between">
             <div class="col-6 pb-3 pl-5">Produced by | ProgrammingWorld 2019</div>
             <div class="col-6 pb-3 pr-5 text-right">
-                <i class="fab fa-facebook text-primary"></i>
-                <i class="fab fa-youtube text-primary"></i>
-                <i class="fab fa-instagram text-primary"></i>
-                <i class="fab fa-whatsapp text-primary"></i>
+                <i class="fab fa-facebook text-black"></i>
+                <i class="fab fa-youtube text-black"></i>
+                <i class="fab fa-instagram text-black"></i>
+                <i class="fab fa-whatsapp text-black"></i>
             </div>
         </div>
     </div>
